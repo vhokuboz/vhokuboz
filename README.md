@@ -1,16 +1,23 @@
-## Hi there 👋
+## Bem-vindo(a) ao meu GitHub!
 
-<!--
-**vhokuboz/vhokuboz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor full-stack brasileiro com uma paixão genuína por tecnologia. Desde sempre, a curiosidade me move, e é por isso que estou sempre estudando e me aprimorando com cursos para dominar novas ferramentas e linguagens. Acredito que a tecnologia é uma jornada de aprendizado contínuo, e é essa mentalidade que me motiva a construir soluções robustas e inovadoras.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Java, HTML, CSS
+
+⚛️ Angular
+
+💾PostgreSQL, MySQL, Redis
+
+🔧Docker, CI/CD
+
+💡SOLID, Clean Code, Design Patterns, Testes (unitários, de integração, etc.)
+
+📫RabbitMQ
+
+## Atividades
+Estou sincronizando meus estudos e aprendizados com a Roadmad
+
+[![roadmap.sh](https://roadmap.sh/card/tall/68a09aaddb704a263318a727?variant=dark&roadmaps=full-stack%2Cjavascript%2Cgit-github)](https://roadmap.sh)
+
