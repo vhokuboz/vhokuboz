@@ -10,15 +10,33 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhokuboz&layout=compact&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" width="320px" alt="Linguagens mais usadas"/>
+<!-- Layout: duas colunas — GitHub stats à esquerda, resumo à direita -->
+<table>
+  <tr>
+    <td valign="top" width="48%">
 
-Desde pequeno, sempre fui curioso — daqueles que desmonta as coisas pra ver como funcionam. Com tecnologia não foi diferente. Hoje sou desenvolvedor full-stack e cada novo desafio é uma chance de aprender algo novo. Acredito que código limpo e boas práticas não são frescura: são a base pra construir algo que realmente funciona e escala.
+  <img src="https://github-readme-stats.vercel.app/api?username=vhokuboz&show_icons=true&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&icon_color=cba6f7" height="160" />
 
-Sigo firme estudando, evoluindo e, acima de tudo, **construindo**.
+  <img src="https://streak-stats.demolab.com?user=vhokuboz&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=1e1e2e&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" height="160" />
 
-<br clear="right"/>
+    </td>
+    <td valign="top" width="52%">
+
+Desde pequeno, sempre fui curioso — daqueles que desmonta as coisas pra ver como funcionam. Com tecnologia não foi diferente. Hoje sou desenvolvedor full-stack e cada novo desafio é uma chance de aprender e aplicar soluções práticas.
+
+Gosto de trabalhar em aplicações bem estruturadas, com foco em qualidade de código, testes e entregas contínuas. Sigo firme estudando, evoluindo e, acima de tudo, **construindo**.
+
+<br/>
+
+    </td>
+  </tr>
+</table>
+
+---
 
 ## ⚡ Tech Stack
+
+Um resumo das linguagens, frameworks e ferramentas que mais uso — mantendo a paleta roxa (cba6f7) do perfil.
 
 ### 🖥 Linguagens & Frameworks
 
@@ -46,18 +64,6 @@ Sigo firme estudando, evoluindo e, acima de tudo, **construindo**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vhokuboz&show_icons=true&hide_border=true&theme=tokyonight&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&icon_color=cba6f7" height="180px"/>
-<img src="https://streak-stats.demolab.com?user=vhokuboz&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D&background=1e1e2e&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" height="180px"/>
-
-</div>
-
-
----
-
 ## 🗺 Roadmap de Estudos
 
 Sincronizando aprendizado com a [Roadmap.sh](https://roadmap.sh):
@@ -65,3 +71,12 @@ Sincronizando aprendizado com a [Roadmap.sh](https://roadmap.sh):
 [![roadmap.sh](https://roadmap.sh/card/tall/68a09aaddb704a263318a727?variant=dark&roadmaps=full-stack%2Cjavascript%2Cgit-github)](https://roadmap.sh)
 
 ---
+
+## 📬 Contato
+
+[![Instagram](https://img.shields.io/badge/Instagram-cba6f7?style=for-the-badge&logo=instagram&logoColor=333333)](https://instagram.com/vitor.okubo)  
+[![GitHub](https://img.shields.io/badge/GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=333333)](https://github.com/vhokuboz)
+
+---
+
+*Atualizado: melhorias de layout e badges — mantendo informações e cores originais.*
